@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wvhdgchfJ0THSGXLi6pO77pDJugAxJAfrktJzyHh21bv+CBkGBKCNSKFQyhTT53w3S8Xcphrtk3cIJ2TBE5FAQ==",
+  "dgSpecHash": "7v3utvvsAj0V47BtwxWOW3N3MUcmAXxeZXGj2TwNbKYxKg/PGjQ0rnzX66AkBzss+ytqPNUbO8JRGxEv3/adTw==",
   "success": true,
-  "projectFilePath": "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Properties/Properties.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet5/Finished/Classes/Properties/Properties.csproj",
+  "expectedPackageFiles": [
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

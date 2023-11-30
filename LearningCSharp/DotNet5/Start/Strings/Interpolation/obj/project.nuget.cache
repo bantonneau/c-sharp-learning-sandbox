@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VJVwD1rwfggUFn1EnyiU4jnFw6zPkIXmtSuhUz9X3zt/b4oLd6HI9r+MZNJtTysnH9i//mgxHRwpPbT47DxFoQ==",
+  "success": true,
+  "projectFilePath": "/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet5/Start/Strings/Interpolation/Strings.csproj",
+  "expectedPackageFiles": [
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

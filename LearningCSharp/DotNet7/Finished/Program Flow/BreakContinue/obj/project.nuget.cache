@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MU6h9Dvj72eUbYRVTxznK3rQu4m2OuED/mC9vmmK/tjPEDtvGFNkHIXsTi50wiAOK2U5BKNpN5Oegm1tv6Nyng==",
+  "success": true,
+  "projectFilePath": "/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Finished/Program Flow/BreakContinue/BreakContinue.csproj",
+  "expectedPackageFiles": [
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bOpcOmjmlsmuy116bzt+zmb1kzAqe6ETsF1cNXUq3qgIdV7MsjkqnkbEHeRIcSnl4HZ8LhplKFVO6k/2pPAyoQ==",
+  "success": true,
+  "projectFilePath": "/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet5/Start/Program Flow/ForLoops/ForLoops.csproj",
+  "expectedPackageFiles": [
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

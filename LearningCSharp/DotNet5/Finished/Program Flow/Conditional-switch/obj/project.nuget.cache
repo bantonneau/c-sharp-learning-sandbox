@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DenkRYWqqbiLD5r33rhp5g9fKyc8W2ibPaXaWIiF0K3A8e2NuJuTVs90SbtxZ+KdB+g9BF+g5js7+PQuaaqUKQ==",
+  "success": true,
+  "projectFilePath": "/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet5/Finished/Program Flow/Conditional-switch/ConditionalOps.csproj",
+  "expectedPackageFiles": [
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

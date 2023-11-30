@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Modifiers/Modifiers.csproj": {}
+    "/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Finished/Classes/Modifiers/Modifiers.csproj": {}
   },
   "projects": {
-    "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Modifiers/Modifiers.csproj": {
+    "/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Finished/Classes/Modifiers/Modifiers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Modifiers/Modifiers.csproj",
+        "projectUniqueName": "/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Finished/Classes/Modifiers/Modifiers.csproj",
         "projectName": "Modifiers",
-        "projectPath": "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Modifiers/Modifiers.csproj",
-        "packagesPath": "/Users/cjmarini/.nuget/packages/",
-        "outputPath": "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/Modifiers/obj/",
+        "projectPath": "/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Finished/Classes/Modifiers/Modifiers.csproj",
+        "packagesPath": "/Users/benantonneau/.nuget/packages/",
+        "outputPath": "/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Finished/Classes/Modifiers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/cjmarini/.nuget/NuGet/NuGet.Config"
+          "/Users/benantonneau/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

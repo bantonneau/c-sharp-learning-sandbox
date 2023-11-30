@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QumfTWhfACIs9GsYt70KKKnBzwjcATE4mjGy7+uPSW9C1khx3Zv5lGhhMcK9zG8XpuY/CmniJmJIwzGp++ZEYQ==",
+  "dgSpecHash": "1yXmPE3UebE7aaDqmY5JXZTPSsN0F4kO4p7JujUQnbm+t6axL9Oc9TR5vOiyplZ2JBGMVwMFc3/cbZTh4tfV5Q==",
   "success": true,
-  "projectFilePath": "/Users/cjmarini/Documents/Git/Lynda/LearningCSharp/Finished/Classes/StringRep/StringRep.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Finished/Classes/StringRep/StringRep.csproj",
+  "expectedPackageFiles": [
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jFzHm8M0zoOMr+m/fCMaFZlROAcpBHui8LAykmvyrUMfTowvm4xbLWgiSoB5C1BwCXocO4RDgfvdv/wY/3xSXQ==",
+  "success": true,
+  "projectFilePath": "/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet6/Finished/Functions/MultiValues/MultiValues.csproj",
+  "expectedPackageFiles": [
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.25/microsoft.netcore.app.host.osx-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

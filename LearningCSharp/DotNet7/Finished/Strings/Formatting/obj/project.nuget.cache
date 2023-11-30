@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9LomFKrNuQE1gLtGNUuG2E0m8JDrjm1gIXNnny0hxE+zb5h/6yJAm71P6yZYWbMhSpbwTPWwjnckK01af3Vvg==",
+  "success": true,
+  "projectFilePath": "/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Finished/Strings/Formatting/Formatting.csproj",
+  "expectedPackageFiles": [
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/benantonneau/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
