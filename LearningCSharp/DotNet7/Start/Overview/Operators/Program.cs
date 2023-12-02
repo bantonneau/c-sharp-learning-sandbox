@@ -12,14 +12,20 @@ namespace Operators
 
             // TODO: Basic math operators are +, -, /, *
             Console.WriteLine("----- Basic Math -----");
+            Console.WriteLine((x / y) * x);
+            Console.WriteLine(a + b);
 
 
             // TODO: Increment / decrement operators
             Console.WriteLine("----- Shorthand -----");
-
+            x++;
+            y--;
+            Console.WriteLine(x)
+            Console.WriteLine(y)
 
             // TODO: Operators can be shorthand: a = a + b
-
+            a += b;
+            Console.WriteLine(a);
 
             // TODO: Logical operators &&, ||
             Console.WriteLine("----- Logic Operators -----");
