@@ -1,0 +1,15 @@
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.sourcelink.json
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators.deps.json
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators.dll
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/bin/Debug/net7.0/Operators.pdb
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.dll
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/refint/Operators.dll
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.pdb
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Overview/Operators/obj/Debug/net7.0/ref/Operators.dll
