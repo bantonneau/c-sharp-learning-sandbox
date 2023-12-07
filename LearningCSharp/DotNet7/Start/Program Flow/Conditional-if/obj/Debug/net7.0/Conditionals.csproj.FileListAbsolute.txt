@@ -1,0 +1,15 @@
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/bin/Debug/net7.0/Conditionals
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/bin/Debug/net7.0/Conditionals.deps.json
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/bin/Debug/net7.0/Conditionals.runtimeconfig.json
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/bin/Debug/net7.0/Conditionals.dll
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/bin/Debug/net7.0/Conditionals.pdb
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net7.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net7.0/Conditionals.AssemblyInfoInputs.cache
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net7.0/Conditionals.AssemblyInfo.cs
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net7.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net7.0/Conditionals.sourcelink.json
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net7.0/Conditionals.dll
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net7.0/refint/Conditionals.dll
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net7.0/Conditionals.pdb
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net7.0/Conditionals.genruntimeconfig.cache
+/Users/benantonneau/repos/c-sharp-learning/c-sharp-learning-sandbox/LearningCSharp/DotNet7/Start/Program Flow/Conditional-if/obj/Debug/net7.0/ref/Conditionals.dll
